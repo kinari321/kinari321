@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kinari321)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kinari321)
 

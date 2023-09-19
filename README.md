@@ -1,5 +1,3 @@
-[![Twitter: _kinashi](https://img.shields.io/twitter/follow/_kinashi?style=social)](https://twitter.com/_kinashi)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kinari321&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinari321&theme=vue)
 
